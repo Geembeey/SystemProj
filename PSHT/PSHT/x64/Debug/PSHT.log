@@ -1,0 +1,49 @@
+﻿  Dashboard.cpp
+D:\VsProj\PSHT\PSHT\Dashboard.h(864,20): warning C4101: 'reader': unreferenced local variable
+D:\VsProj\PSHT\PSHT\Dashboard.h(873,22): warning C4101: 'e': unreferenced local variable
+D:\VsProj\PSHT\PSHT\Dashboard.h(939,20): warning C4101: 'reader': unreferenced local variable
+D:\VsProj\PSHT\PSHT\Dashboard.h(947,22): warning C4101: 'e': unreferenced local variable
+D:\VsProj\PSHT\PSHT\Dashboard.h(953,21): warning C4101: 'e': unreferenced local variable
+D:\VsProj\PSHT\PSHT\Dashboard.h(991,21): warning C4101: 'e': unreferenced local variable
+D:\VsProj\PSHT\PSHT\Dashboard.h(1026,22): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+D:\VsProj\PSHT\PSHT\Dashboard.h(1029,20): warning C4101: 'e': unreferenced local variable
+D:\VsProj\PSHT\PSHT\Dashboard.h(1041,18): warning C4101: 'reader': unreferenced local variable
+D:\VsProj\PSHT\PSHT\Dashboard.h(1049,20): warning C4101: 'e': unreferenced local variable
+D:\VsProj\PSHT\PSHT\Dashboard.h(1063,18): warning C4101: 'reader': unreferenced local variable
+D:\VsProj\PSHT\PSHT\Dashboard.h(1071,20): warning C4101: 'e': unreferenced local variable
+D:\VsProj\PSHT\PSHT\Dashboard.h(1102,20): warning C4101: 'e': unreferenced local variable
+  LoginForm.cpp
+D:\VsProj\PSHT\PSHT\Dashboard.h(864,20): warning C4101: 'reader': unreferenced local variable
+D:\VsProj\PSHT\PSHT\Dashboard.h(873,22): warning C4101: 'e': unreferenced local variable
+D:\VsProj\PSHT\PSHT\Dashboard.h(939,20): warning C4101: 'reader': unreferenced local variable
+D:\VsProj\PSHT\PSHT\Dashboard.h(947,22): warning C4101: 'e': unreferenced local variable
+D:\VsProj\PSHT\PSHT\Dashboard.h(953,21): warning C4101: 'e': unreferenced local variable
+D:\VsProj\PSHT\PSHT\Dashboard.h(991,21): warning C4101: 'e': unreferenced local variable
+D:\VsProj\PSHT\PSHT\Dashboard.h(1026,22): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+D:\VsProj\PSHT\PSHT\Dashboard.h(1029,20): warning C4101: 'e': unreferenced local variable
+D:\VsProj\PSHT\PSHT\Dashboard.h(1041,18): warning C4101: 'reader': unreferenced local variable
+D:\VsProj\PSHT\PSHT\Dashboard.h(1049,20): warning C4101: 'e': unreferenced local variable
+D:\VsProj\PSHT\PSHT\Dashboard.h(1063,18): warning C4101: 'reader': unreferenced local variable
+D:\VsProj\PSHT\PSHT\Dashboard.h(1071,20): warning C4101: 'e': unreferenced local variable
+D:\VsProj\PSHT\PSHT\Dashboard.h(1102,20): warning C4101: 'e': unreferenced local variable
+D:\VsProj\PSHT\PSHT\RegistrationForm.h(440,20): warning C4101: 'e': unreferenced local variable
+D:\VsProj\PSHT\PSHT\LoginForm.h(434,21): warning C4101: 'e': unreferenced local variable
+  Program.cpp
+D:\VsProj\PSHT\PSHT\Dashboard.h(864,20): warning C4101: 'reader': unreferenced local variable
+D:\VsProj\PSHT\PSHT\Dashboard.h(873,22): warning C4101: 'e': unreferenced local variable
+D:\VsProj\PSHT\PSHT\Dashboard.h(939,20): warning C4101: 'reader': unreferenced local variable
+D:\VsProj\PSHT\PSHT\Dashboard.h(947,22): warning C4101: 'e': unreferenced local variable
+D:\VsProj\PSHT\PSHT\Dashboard.h(953,21): warning C4101: 'e': unreferenced local variable
+D:\VsProj\PSHT\PSHT\Dashboard.h(991,21): warning C4101: 'e': unreferenced local variable
+D:\VsProj\PSHT\PSHT\Dashboard.h(1026,22): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+D:\VsProj\PSHT\PSHT\Dashboard.h(1029,20): warning C4101: 'e': unreferenced local variable
+D:\VsProj\PSHT\PSHT\Dashboard.h(1041,18): warning C4101: 'reader': unreferenced local variable
+D:\VsProj\PSHT\PSHT\Dashboard.h(1049,20): warning C4101: 'e': unreferenced local variable
+D:\VsProj\PSHT\PSHT\Dashboard.h(1063,18): warning C4101: 'reader': unreferenced local variable
+D:\VsProj\PSHT\PSHT\Dashboard.h(1071,20): warning C4101: 'e': unreferenced local variable
+D:\VsProj\PSHT\PSHT\Dashboard.h(1102,20): warning C4101: 'e': unreferenced local variable
+D:\VsProj\PSHT\PSHT\RegistrationForm.h(440,20): warning C4101: 'e': unreferenced local variable
+D:\VsProj\PSHT\PSHT\LoginForm.h(434,21): warning C4101: 'e': unreferenced local variable
+  Generating Code...
+  Dashboard.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  PSHT.vcxproj -> D:\VsProj\PSHT\x64\Debug\PSHT.exe

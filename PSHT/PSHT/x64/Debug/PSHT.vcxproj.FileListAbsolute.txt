@@ -1,0 +1,6 @@
+D:\VsProj\PSHT\PSHT\x64\Debug\PSHT.vcxproj.AssemblyReference.cache
+D:\VsProj\PSHT\PSHT\x64\Debug\PSHT.LoginForm.resources
+D:\VsProj\PSHT\PSHT\x64\Debug\PSHT.vcxproj.GenerateResource.cache
+D:\VsProj\PSHT\PSHT\x64\Debug\PSHT.Dashboard.resources
+D:\VsProj\PSHT\PSHT\x64\Debug\PSHT.RegistrationForm.resources
+D:\VsProj\PSHT\PSHT\x64\Debug\PSHT.vcxproj.CopyComplete

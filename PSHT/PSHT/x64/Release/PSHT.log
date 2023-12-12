@@ -1,0 +1,18 @@
+﻿  Dashboard.cpp
+D:\VsProj\PSHT\PSHT\Habitpm.h(239,21): warning C4101: 'e': unreferenced local variable
+  Habitpm.cpp
+D:\VsProj\PSHT\PSHT\Habitpm.h(239,21): warning C4101: 'e': unreferenced local variable
+  LoginForm.cpp
+D:\VsProj\PSHT\PSHT\Habitpm.h(239,21): warning C4101: 'e': unreferenced local variable
+D:\VsProj\PSHT\PSHT\RegistrationForm.h(440,20): warning C4101: 'e': unreferenced local variable
+D:\VsProj\PSHT\PSHT\LoginForm.h(434,21): warning C4101: 'e': unreferenced local variable
+  Program.cpp
+D:\VsProj\PSHT\PSHT\Habitpm.h(239,21): warning C4101: 'e': unreferenced local variable
+D:\VsProj\PSHT\PSHT\RegistrationForm.h(440,20): warning C4101: 'e': unreferenced local variable
+D:\VsProj\PSHT\PSHT\LoginForm.h(434,21): warning C4101: 'e': unreferenced local variable
+  RegistrationForm.cpp
+D:\VsProj\PSHT\PSHT\RegistrationForm.h(440,20): warning C4101: 'e': unreferenced local variable
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  Dashboard.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  PSHT.vcxproj -> D:\VsProj\PSHT\x64\Release\PSHT.exe
